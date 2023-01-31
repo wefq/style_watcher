@@ -53,3 +53,5 @@ allElems.forEach(elem => {
 
     elem.addEventListener('mouseout', (e) => e.target.style.outline = 'none')
 })
+
+console.log('')
